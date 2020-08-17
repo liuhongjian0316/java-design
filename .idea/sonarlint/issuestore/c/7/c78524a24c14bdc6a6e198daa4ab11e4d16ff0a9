@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÙ·õüÿÿÿÿ8™ÏÖ©¿.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î¦ù8É¢Ø©¿.
+C
+java:S1144"&Remove this unused private "m" method.(ÃÆÇ•8™ÏÖ©¿.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(›×«¥8™ÏÖ©¿.

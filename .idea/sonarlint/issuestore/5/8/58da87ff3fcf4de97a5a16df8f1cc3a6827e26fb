@@ -1,0 +1,7 @@
+
+p
+java:S3008	"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Şè8Ñ¨É¨¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÙ·õüÿÿÿÿ8¶ÎĞ¨¿.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(·ü—¿8¯ËÒ¨¿.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÂÍ¨¿.

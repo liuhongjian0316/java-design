@@ -1,0 +1,11 @@
+
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ8ÈÙ±©¿.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÈÙ±©¿.
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ùÙ·õüÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¯Úî
+i
+java:S3008	"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃùÙ“
+U
+java:S2168"9Remove this dangerous instance of double-checked locking.(Çº’88‘ÒÂ©¿.

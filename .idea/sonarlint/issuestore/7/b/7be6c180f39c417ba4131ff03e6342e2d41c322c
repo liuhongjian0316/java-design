@@ -1,0 +1,9 @@
+
+u
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÎ¤ôûÿÿÿÿ8äÒ‚©¿.
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ8Öü†©¿.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Öü†©¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÙ·õüÿÿÿÿ8¯§‰©¿.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ñš™“üÿÿÿÿ8¸˜Š©¿.

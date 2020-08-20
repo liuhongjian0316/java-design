@@ -1,7 +1,4 @@
 
-H
-java:S1481"&Remove this unused "a" local variable.(êï–‡ûÿÿÿÿ8ÎÁä°¿.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÍ‚é8æ¤ª«¿.
 H
-java:S2440
-"&Remove this instantiation of "Sorter".(½´™›úÿÿÿÿ8³Êå°¿.
+java:S1481"&Remove this unused "a" local variable.(êï–‡ûÿÿÿÿ8ÎÁä°¿.
